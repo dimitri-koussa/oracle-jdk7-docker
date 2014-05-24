@@ -1,4 +1,4 @@
-FROM ubuntu:quantal
+FROM ubuntu:14.04
 MAINTAINER Brian Olsen "brian@maven-group.org"
 
 # Install Java 7
