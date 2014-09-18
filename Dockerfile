@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Brian Olsen "brian@maven-group.org"
+MAINTAINER Dimitri Koussa "dimitri.koussa@gmail.com"
 
 # Install Java 7
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -q -y software-properties-common
